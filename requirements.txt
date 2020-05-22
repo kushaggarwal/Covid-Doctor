@@ -4,7 +4,7 @@ Flask==1.1.2
 Werkzeug==1.0.1
 matplotlib==3.2.1
 Keras==2.3.1
-opencv_python==4.2.0.34
+opencv_python==3.3.0.9
 numpy==1.18.4
 requests==2.23.0
 openmdao==3.1.0
